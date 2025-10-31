@@ -147,3 +147,4 @@ The built files will be in the `dist/` directory, ready for deployment to any st
 - [ ] Dark mode support
 - [ ] Keyboard shortcuts
 - [ ] Task search and filtering
+# taskboard
